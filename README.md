@@ -4,6 +4,6 @@
 <img src="https://github.com/GrishaShatLav/Gif/blob/master/Gif/Heart.gif" height="64"/></h1>
 <h3 align="center">Game Developer, Engineer and Student</h3>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+ <h3 align="center"https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=GrishaShatLav&column=8&theme=gruvbox&no-frame=true"/>
 </a>
