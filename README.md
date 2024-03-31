@@ -1,4 +1,8 @@
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="Unreal" alt="Unreal" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="80" height="80"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Unity" alt="Unity" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Unity" alt="Unity" width="80" height="80"/>&nbsp;
+
 <h1 align="center">Hello and welcome, I'm Grisha</h1>
 <div align="center">
   <img src="https://raw.githubusercontent.com/GrishaShatLav/Gif/master/Gif/Heart.gif" height="64"/>
